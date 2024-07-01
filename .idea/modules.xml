@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ja.iml" filepath="$PROJECT_DIR$/.idea/modules/ja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ja.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ja.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ja.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ja.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ja.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ja.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ja.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ja.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/locationmanager/ja.locationmanager.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcodescanner/ja.qrcodescanner.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.iml" filepath="$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/spinnersearchable/ja.spinnersearchable.unitTest.iml" />
+    </modules>
+  </component>
+</project>

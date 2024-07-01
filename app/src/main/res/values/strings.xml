@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JANKI AMBULANCE SERVICE</string>
+
+    <string-array name="yesno">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+
+    <string name="preview_description">Image and Video preview will appear here</string>
+    <string name="btn_take_picture">Take Picture</string>
+
+    <string name="enter_location">Enter Location</string>
+    <string name="google_maps_key">AIzaSyCa_M5Om6bINYg5P1j2lcuFLPVjnbQ2nVo</string>
+</resources>
